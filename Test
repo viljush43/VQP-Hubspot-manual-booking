@@ -64,7 +64,7 @@
                     </div>
                     <h3 class="text-lg font-semibold text-gray-800">Title the Meeting</h3>
                 </div>
-                <p class="text-gray-600">Update the <span class="font-medium text-blue-600">Title</span> field to: <span class="font-medium bg-yellow-100 px-2 py-1 rounded">Roof Maxx Phone Consultation</span>.</p>
+                <p class="text-gray-600">Update the <span class="font-medium text-blue-600">Title</span> field to: <span class="font-medium bg-yellow-100 px-2 py-1 rounded">Roof Maxx Consultation</span>.</p>
             </div>
 
             <!-- Step 4 -->
